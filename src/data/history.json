@@ -1,0 +1,29 @@
+[
+  {
+    "id": "h1",
+    "date": "2026-05-03",
+    "type": "installation",
+    "title": "System Installed",
+    "description": "Ecoflo Compact Biofilter EC-5 installed by certified crew. All systems verified.",
+    "technician": "Marc Bouchard",
+    "ref": "INST-2026-0088"
+  },
+  {
+    "id": "h2",
+    "date": "2026-10-14",
+    "type": "maintenance",
+    "title": "Filter Inspection",
+    "description": "Routine filter inspection completed. Coconut husk filter in excellent condition.",
+    "technician": "Marc Bouchard",
+    "ref": "MAINT-2026-0112"
+  },
+  {
+    "id": "h3",
+    "date": "2027-03-15",
+    "type": "upcoming",
+    "title": "Annual Maintenance",
+    "description": "Scheduled annual maintenance visit.",
+    "technician": "TBD",
+    "ref": "MAINT-2027-0031"
+  }
+]

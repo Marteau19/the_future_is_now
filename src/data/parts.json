@@ -1,0 +1,62 @@
+[
+  {
+    "id": "CAF-065",
+    "name": "Charcoal Air Filter 65",
+    "price": 70.00,
+    "category": "Filters",
+    "inStock": true,
+    "diyFriendly": true,
+    "description": "Standard replacement charcoal air filter for the EC-5 biofilter unit. Easy self-installation in under 10 minutes.",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&q=80"
+  },
+  {
+    "id": "CAF-090",
+    "name": "Charcoal Air Filter 90",
+    "price": 82.00,
+    "category": "Filters",
+    "inStock": true,
+    "diyFriendly": true,
+    "description": "High-capacity charcoal air filter for larger EC-5 installations. Self-installation compatible.",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&q=80"
+  },
+  {
+    "id": "CAF-300",
+    "name": "Charcoal Air Vent Filter 300",
+    "price": 100.00,
+    "category": "Filters",
+    "inStock": true,
+    "diyFriendly": false,
+    "description": "Vent-integrated charcoal filter for advanced odour control. Requires technician installation due to vent coupling.",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&q=80"
+  },
+  {
+    "id": "LID-QT",
+    "name": "1/4 Turn Replacement for Plastic Lid",
+    "price": 23.00,
+    "category": "Lids & Risers",
+    "inStock": true,
+    "diyFriendly": true,
+    "description": "Quarter-turn replacement hardware for the plastic access lid. Tool-free installation.",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&q=80"
+  },
+  {
+    "id": "INS-MA",
+    "name": "Insulation Panel — Main Access",
+    "price": 49.00,
+    "category": "Accessories",
+    "inStock": true,
+    "diyFriendly": false,
+    "description": "Thermal insulation panel for the main access lid. Improves cold-weather performance. Technician installation recommended.",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&q=80"
+  },
+  {
+    "id": "CAF-100P",
+    "name": "Charcoal Air Filter 100P",
+    "price": 56.00,
+    "category": "Filters",
+    "inStock": false,
+    "diyFriendly": true,
+    "description": "Premium 100-series charcoal filter. Currently out of stock — notify me when available.",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&q=80"
+  }
+]

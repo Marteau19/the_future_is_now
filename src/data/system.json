@@ -1,0 +1,20 @@
+{
+  "model": "Ecoflo Compact Biofilter EC-5",
+  "installed": "2026-05-03",
+  "serial": "EC5-2026-04821",
+  "address": "247 Chemin du Lac, Saint-Sauveur, QC",
+  "status": "healthy",
+  "healthScore": 92,
+  "lastMaintenance": "2026-05-03",
+  "nextMaintenance": "2027-03-15",
+  "filterRenewalDue": "2041-05-03",
+  "recommended": "Ecoflo Compact Biofilter EC-5",
+  "reasons": [
+    "Ideal for primary residences with 3–4 bedrooms",
+    "Works in a wide range of soil conditions",
+    "Uses 50% less space than traditional systems",
+    "Energy-free, no mechanical components"
+  ],
+  "filterType": "Coconut husk (coco) — 100% natural and compostable",
+  "warrantyYears": 10
+}

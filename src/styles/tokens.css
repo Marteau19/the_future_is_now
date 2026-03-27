@@ -1,0 +1,35 @@
+/* === BRAND === */
+:root {
+  --color-brand:          #64A70B;
+  --color-brand-dark:     #4D7E08;
+  --color-brand-light:    #EDF5DC;
+  --color-brand-muted:    #8FC445;
+
+  /* === NEUTRALS === */
+  --color-bg:             #FFFFFF;
+  --color-surface:        #F7F8F5;
+  --color-surface-alt:    #EEEEE9;
+  --color-border:         #E2E4DC;
+  --color-text:           #1A1A1A;
+  --color-text-secondary: #5C5F52;
+  --color-text-disabled:  #A8ABA0;
+
+  /* === SEMANTIC === */
+  --color-success:        #64A70B;
+  --color-warning:        #F59E0B;
+  --color-danger:         #DC2626;
+  --color-info:           #3B82F6;
+
+  /* === TUTORIAL === */
+  --color-overlay:        rgba(0, 0, 0, 0.22);
+  --color-bubble-glow:    rgba(100, 167, 11, 0.55);
+
+  /* === TYPOGRAPHY === */
+  --text-xs:   0.75rem;
+  --text-sm:   0.875rem;
+  --text-base: 1rem;
+  --text-lg:   1.125rem;
+  --text-xl:   1.25rem;
+  --text-2xl:  1.5rem;
+  --text-3xl:  1.875rem;
+}
